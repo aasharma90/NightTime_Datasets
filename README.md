@@ -15,5 +15,5 @@
 
 ### Stereo Vision
 - [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/)
--- Unlabelled. 
+-- Unlabelled
 -- Provides raw LIDAR based sparse depth maps. 
