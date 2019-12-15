@@ -1,4 +1,4 @@
-# Labelled/Unlabelled datasets under nighttime/low-light conditions. 
+# Datasets for nighttime/low-light conditions. 
 
 ## Object Detection
 ### Pedestrians (Labelled)
