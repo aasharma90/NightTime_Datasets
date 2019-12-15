@@ -1,15 +1,19 @@
-## Datasets for nighttime/low-light conditions. 
+## Datasets for nighttime and low-light conditions. 
 
 ### Object Detection
-#### Pedestrians (Labelled)
-- [NightOwls Dataset](https://www.nightowls-dataset.org/)
+- [NightOwls Dataset](https://www.nightowls-dataset.org/).
+-- Labelled
+-- Pedestrian detection
 - [KAIST Multi-Spectral Dataset](https://soonminhwang.github.io/rgbt-ped-detection/data/)
-
-#### Multi-Objects (Labelled)
+-- Labelled
+-- Pedestrian detection
 - [ExDark (Exclusively Dark Image Dataset)](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)
-
-#### Cars/Moving Vehicles (Labelled)
+-- Labelled
+-- Multiple objects are annotated. 
 - [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+-- Cars and other vehicles are annotated. 
 
-### Stereo Vision (Unlabelled)
+### Stereo Vision
 - [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/)
+-- Unlabelled. 
+-- Provides raw LIDAR based sparse depth maps. 
