@@ -34,4 +34,4 @@
 -- Provides a small set of 50 labelled images for validation/test purposes.  
 -- Semantic classes compatible with the [CityScapes](https://www.cityscapes-dataset.com/) dataset
 - [NightCity](https://arxiv.org/pdf/2003.06883.pdf)  
--- Yet to be publised
+-- Yet to be published
