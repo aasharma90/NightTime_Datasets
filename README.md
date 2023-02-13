@@ -12,7 +12,10 @@
 -- Multiple objects are annotated. 
 - [BDD100K: Night](https://bdd-data.berkeley.edu/)  
 -- Labelled (Small Data)  
--- Cars and other vehicles are annotated. 
+-- Cars and other vehicles are annotated.
+-- [Dark face](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset)
+-- Labelled 
+-- Face detection 
 
 ### Stereo Vision
 - [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/)  
