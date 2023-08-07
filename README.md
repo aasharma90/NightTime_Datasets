@@ -13,9 +13,6 @@
 - [BDD100K: Night](https://bdd-data.berkeley.edu/)  
 -- Labelled (Small Data)  
 -- Cars and other vehicles are annotated.  
-- [Dark Face Dataset](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset)  
--- Labelled  
--- Face detection in extremely low-light 
 
 ### Pose Estimation  
 - [ExLPose Dataset](http://cg.postech.ac.kr/research/ExLPose/)  
