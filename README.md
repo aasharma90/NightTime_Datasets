@@ -25,7 +25,7 @@
 ### Face Detection
 - [DarkFace Dataset](https://flyywh.github.io/CVPRW2019LowLight/)  
 -- Labelled
--- 5400 images for training; 600 images for validation/testing   
+-- 5400/600 images for train/val
 -- Face detection in extremely low-light
   
 ### Stereo Vision
