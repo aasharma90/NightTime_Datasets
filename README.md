@@ -22,6 +22,12 @@
 -- Labelled   
 -- Human 2D Pose estimation in extremely low-light   
 
+### Face Detection
+- [DarkFace Dataset](https://flyywh.github.io/CVPRW2019LowLight/)  
+-- Labelled
+-- 5400 images for training; 600 images for validation/testing   
+-- Face detection in extremely low-light
+  
 ### Stereo Vision
 - [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/)  
 -- Unlabelled  
