@@ -1,12 +1,6 @@
 ## Datasets for nighttime and low-light conditions. 
 
 ### Object Detection
-- [NightOwls Dataset](https://www.nightowls-dataset.org/)  
--- Labelled  
--- Pedestrian detection
-- [KAIST Multi-Spectral Dataset](https://soonminhwang.github.io/rgbt-ped-detection/data/)  
--- Labelled  
--- Pedestrian detection
 - [ExDark (Exclusively Dark Image Dataset)](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)  
 -- Labelled  
 -- Multiple objects are annotated. 
@@ -14,16 +8,25 @@
 -- Labelled (Small Data)  
 -- Cars and other vehicles are annotated.  
 
+### Face Detection
+- [DarkFace Dataset](https://flyywh.github.io/CVPRW2019LowLight/)  
+-- Labelled
+-- 5400/600 images for train/val  
+-- Face detection in extremely low-light
+
+### People/Pedestrian Detection
+- [NightOwls Dataset](https://www.nightowls-dataset.org/)  
+-- Labelled  
+-- Pedestrian detection
+- [KAIST Multi-Spectral Dataset](https://soonminhwang.github.io/rgbt-ped-detection/data/)  
+-- Labelled  
+-- Pedestrian detection
+
+
 ### Pose Estimation  
 - [ExLPose Dataset](http://cg.postech.ac.kr/research/ExLPose/)  
 -- Labelled   
 -- Human 2D Pose estimation in extremely low-light   
-
-### Face Detection
-- [DarkFace Dataset](https://flyywh.github.io/CVPRW2019LowLight/)  
--- Labelled
--- 5400/600 images for train/val
--- Face detection in extremely low-light
   
 ### Stereo Vision
 - [The Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/)  
